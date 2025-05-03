@@ -1,4 +1,4 @@
-# HackSurinameFuture
+# Hacking Suriname Future
 
 **Transforming Education Through Advanced Thinking and Empowering the Nation's Next Chapter**
 
