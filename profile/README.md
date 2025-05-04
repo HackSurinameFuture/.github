@@ -1,35 +1,61 @@
-# Hacking Suriname Future
+# Hack Suriname Future
 
-**Transforming Education Through Advanced Thinking and Empowering the Nation's Next Chapter**
+> Transforming Education Through Advanced Thinking and Empowering the Nation's Next Chapter
 
-Welcome to **HackSurinameFuture**, a community-driven initiative to empower Suriname's youth through high-performance programming education.
+**HackSurinameFuture** is a community-driven initiative to empower young minds in Suriname through serious, real-world programming education starting from age 11. Our goal is to prepare students to think, build, and solve like modern engineers using the same tools and practices found in global tech ecosystems.
 
-We focus on:
+---
 
-- 🚀 High-impact programming and computational thinking
-- 💻 Open-source tools and Linux-based development environments
-- 🧠 Critical thinking and problem-solving through real-world coding
-- 📚 Public, reusable curriculum and hands-on project work
-- 📈 Measurable impact in schools and communities
+## 🎯 Mission
 
-### 🎯 Mission
-To create an accessible, mobile, and replicable educational model that brings serious programming education to young students in Suriname—starting from age 11—and prepares them to think, build, and solve like future engineers.
+To deliver early, high-impact computing education that combines logic, coding, collaboration, and open documentation—making students capable of solving real problems and shaping their own futures.
 
-### 🧰 What We Offer
-- A documented and open curriculum
-- Project-based learning modules
-- GitHub and Git integration for version control
-- Lightweight, portable hardware setups
-- A real-world tech stack: Linux, Git, Markdown, Obsidian, and more
+---
 
-### 🌍 Why It Matters
-Suriname is full of untapped talent. With the right exposure and training, our youth can become world-class developers, engineers, and problem-solvers. This initiative is designed to be the **spark** that ignites that journey.
+## 🧩 What We Focus On
 
-### 📂 Explore Our Repositories
-- `curriculum` – Educational content and lesson structure
-- `mobile-lab-setup` – Tools and hardware configuration for portable classrooms
-- `project-schedule` – Implementation timeline and structure
-- `public-docs` – Proposal, presentations, and formal documentation
+- 🧠 Developing critical thinking and algorithmic problem solving
+- 💻 Teaching fullstack programming using HTML, CSS, and JavaScript
+- 📦 Promoting the use of open-source tools and open-access learning
+- 🗃️ Training in Git, Markdown, Obsidian, and structured documentation
+- 📚 Delivering project-based curriculum with measurable outcomes
+- 🧪 Encouraging experimentation, teamwork, and autonomy
+- 🌍 Building an educational model that is mobile, replicable, and scalable
 
-### 🤝 Get Involved
-We welcome educators, developers, and organizations to contribute, replicate, or adapt our work. Collaboration is key.
+---
+
+## 🧰 How We Work
+
+- Small student teams meet twice a week for in-person training
+- A shared curriculum structured across 6 intensive months
+- Low-cost computing setups using tablets, Linux environments, and open tools
+- Group projects, individual tasks, and hands-on coding challenges
+- Public GitHub repos per team for code, wikis, logs, and collaboration
+- Real communication between instructors, students, and families
+- Full transparency: all content is open and available to the public
+
+---
+
+## 🛠️ Tech Stack
+
+- Linux and command-line interfaces
+- Git / GitHub workflows
+- Obsidian for personal knowledge management
+- JavaScript (core language for both front and back end)
+- HTML & CSS (standards-based, no frameworks)
+- Node-RED for IoT interaction and real-time logic
+- SQLite and basic SQL for data persistence
+
+---
+
+## 🌟 Why It Matters
+
+This is more than a coding class. It's a blueprint for what computing education in Suriname—and anywhere—could look like. We are building something that can be reproduced, extended, and scaled, with real community involvement and visible educational impact.
+
+---
+
+## 🤝 Get Involved
+
+We welcome educators, developers, and institutions to contribute, adapt, or collaborate with us. If you believe in accessible, powerful, and modern computing education—let’s build together.
+
+> `sudo SU` — move to the future.
