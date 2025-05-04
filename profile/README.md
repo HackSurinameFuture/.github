@@ -33,9 +33,3 @@ Suriname is full of untapped talent. With the right exposure and training, our y
 
 ### 🤝 Get Involved
 We welcome educators, developers, and organizations to contribute, replicate, or adapt our work. Collaboration is key.
-
----
-
-🔗 Learn more and follow our journey.
-
-_This organization was created as part of a grant initiative proposal for the U.S. Embassy Paramaribo Small Grants Program._
